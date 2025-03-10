@@ -1,33 +1,33 @@
 {
-  "name": "whatsapp-bot-md",
-  "description": "nodejs whatsapp bot",
+  "name": "Ananiel-BOT",
+  "description": "this bot made by Kris Muliawan and github repo.",
   "logo": "https://i.ibb.co/sWmwD0k/e0bslrup.jpg",
-  "repository": "https://github.com/jacktheboss220/WhatsAppBotMultiDevice",
+  "repository": "https://github.com/KrissLieBert/whatsappbot.git",
   "keywords": [
-    "whatsapp-bot",
-    "instagram",
-    "multi-device",
+    "whatsapp-bot-new",
+    "Whatsappandnodejs",
+    "Beta-project",
     "whatsapp",
     "bot",
-    "whatsapp-bot-multi-device",
+    "Whatsapp-bot-beta",
     "whatsapp-bot-md",
-    "whatsapp-bot-multi-device"
+    "Whatsapp-bot"
   ],
   "env": {
     "PREFIX": {
-      "description": "Bot Prefix to use before commands",
+      "description": ".",
       "required": true
     },
     "MONGODB_KEY": {
-      "description": "MongoDB Key to store data",
+      "description": "fe325902-31b8-4dc1-8598-b5a1abb0adf8",
       "required": true
     },
     "MY_NUMBER": {
-      "description": "Your WhatsApp Number to use as bot owner",
+      "description": "+62 812-9029-3016",
       "required": true
     },
     "BOT_NUMBER": {
-      "description": "Your WhatsApp Bot Number to use as bot",
+      "description": "+62 838-7205-3272",
       "required": true
     },
     "REMOVE_BG_KEY": {
@@ -35,7 +35,7 @@
       "required": false
     },
     "DEEPAI_KEY": {
-      "description": "Deepai.org API key",
+      "description": "6a3bb579-8528-4499-8dff-7ce5226d0411",
       "required": false
     },
     "TRUECALLER_ID": {
